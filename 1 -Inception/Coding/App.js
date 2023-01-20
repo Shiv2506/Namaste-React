@@ -1,5 +1,3 @@
-import React from "react";
-import ReactDOM from "react-dom/client";
 // ------------ First Hello World program using JS to manipulate the DOM ---------------
 //  <script>
 //     const heading = document.createElement("h1");
