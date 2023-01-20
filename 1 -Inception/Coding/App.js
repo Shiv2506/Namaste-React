@@ -1,4 +1,3 @@
-
 // ------------ First Hello World program using JS to manipulate the DOM ---------------
 //  <script>
 //     const heading = document.createElement("h1");
